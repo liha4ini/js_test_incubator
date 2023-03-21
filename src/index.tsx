@@ -4,6 +4,10 @@ import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 
+import {value_01_01} from "./01_lesson/01";
+
+let a = value_01_01;
+
 const root = ReactDOM.createRoot(
   document.getElementById('root') as HTMLElement
 );
